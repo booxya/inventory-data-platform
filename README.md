@@ -41,7 +41,14 @@ A full data transformation pipeline was implemented:
 
 4. **Reporting layer (Power BI)**
    - Developed a stakeholder-facing dashboard  
-   - Provided simplified, business-friendly insights  
+   - Provided simplified, business-friendly insights
+  
+##  My Role
+
+- Led data cleaning and validation process  
+- Designed and built the relational database  
+- Developed SQL queries for data transformation  
+- Created Power BI dashboard for stakeholders  
 
 ---
 
